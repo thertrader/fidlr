@@ -1,0 +1,11 @@
+Package: fidlr
+Type: Package
+Title: Download data from various financial data sources
+Version: 0.1.0
+Author: Arnaud Amsellem
+Maintainer: Arnaud Amsellem <thertrader@gmail.com>
+Imports: shiny, miniUI, xts, zoo, quantmod
+Description: This initial version is a wrapper around the getSymbols function in the quantmod package and only Yahoo, Google, FRED and Oanda are supported. More data providers and functionalities might be added over time.
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1

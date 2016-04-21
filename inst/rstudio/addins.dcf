@@ -1,0 +1,4 @@
+Name: fidlr: FInancial Data LoadeR
+Description: Download financial data from various providers
+Binding: fidlr
+Interactive: true
